@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.8
+
+- Updated the overview layout and feedback links.
+- Cropped both character selection screenshots to remove the right-side options and Ready button.
+- No gameplay changes.
+
 ## 0.2.7
 
 - Added optional LookingGlass integration for proc coefficients, empowered-arrow details, and per-hit explanations. No changes to actual proc values.

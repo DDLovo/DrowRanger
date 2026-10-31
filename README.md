@@ -80,7 +80,7 @@ Feel free to [email me](mailto:ddlddl100086@gmail.com) or open a [GitHub issue](
 
 ## AI Disclosure
 
-AI tools assisted with code, documentation, and some UI icon artwork. Gameplay design, review, and in-game testing were directed by the author. The images above are actual gameplay screenshots; the combat image is cropped. Dota character assets originate from Valve.
+AI tools assisted with code, documentation, and some UI icon artwork. Gameplay design, review, and in-game testing were directed by the author. The images above are actual gameplay screenshots, cropped for presentation. Dota character assets originate from Valve.
 
 ## Credits
 
