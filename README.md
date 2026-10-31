@@ -10,7 +10,7 @@ Drow Ranger is a ranged survivor built around spacing, deliberate shots, and pun
 - Features Dota-derived models, animations, weapon and skill sounds, plus effects adapted for Risk of Rain 2.
 - Includes **English and Simplified Chinese** in-game text. Arcana dialogue is disabled; combat sound effects remain.
 
-![Dread Retribution in combat](https://raw.githubusercontent.com/DDLovo/DrowRanger/main/images/drow-combat.png)
+![Classic Drow Ranger and skill overview](https://raw.githubusercontent.com/DDLovo/DrowRanger/main/images/drow-classic.png)
 
 ## Overview
 
@@ -18,9 +18,13 @@ Keep enemies at a distance to get the most out of Marksmanship. Your arrows have
 
 Choose Frost Arrows for stacking slows or Hypothermia for death-triggered explosions. Multishot, Gust, and Winter Strike apply your selected arrow effect, letting you build around control or chain reactions.
 
+![Dread Retribution in combat](https://raw.githubusercontent.com/DDLovo/DrowRanger/main/images/drow-combat.png)
+
 ## Skills
 
 Values below use the default configuration. Cooldowns are base values before item modifiers.
+
+![Dread Retribution Arcana and loadout choices](https://raw.githubusercontent.com/DDLovo/DrowRanger/main/images/drow-arcana.png)
 
 | Slot | Skill | Description | Cooldown |
 | --- | --- | --- | --- |
@@ -60,10 +64,6 @@ Choose one relic in the loadout menu. Relics are passive choices and do not occu
 
 Both skins and all loadout choices are available immediately.
 
-![Classic Drow Ranger and skill overview](https://raw.githubusercontent.com/DDLovo/DrowRanger/main/images/drow-classic.png)
-
-![Dread Retribution Arcana and loadout choices](https://raw.githubusercontent.com/DDLovo/DrowRanger/main/images/drow-arcana.png)
-
 ## Multiplayer and Configuration
 
 **All players must have this mod enabled at the same version.** Disable it before joining players who do not have it. Multiplayer edge cases still need broader testing.
@@ -75,6 +75,8 @@ With **LookingGlass** installed, skill tooltips include proc coefficients and no
 ## Feedback
 
 When reporting an issue, include the mod version, selected skin and loadout, other installed mods, and whether you were hosting or joining. A short reproduction sequence and `BepInEx/LogOutput.log` are especially helpful. For terrain or animation issues, include a screenshot or short clip.
+
+Feel free to [email me](mailto:ddlddl100086@gmail.com) or open a [GitHub issue](https://github.com/DDLovo/DrowRanger/issues).
 
 ## AI Disclosure
 
