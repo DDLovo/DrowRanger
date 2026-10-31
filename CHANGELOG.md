@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.9
+
+- Refined classic armor-piercing arrows with a wider blue-white envelope and a visible arrow silhouette.
+- Reworked Arcana armor-piercing arrows with a red core and black angular fragments, based on Dota reference screenshots.
+- Added subtle, tightly wound spiral trails to classic Winter Strike and richer layered triangle trails to Arcana Winter Strike, with lingering trails after impact.
+- Changed the package website link to the Thunderstore mod page.
+- No changes to damage, proc coefficients, projectile speed, or hit detection.
+
 ## 0.2.8
 
 - Updated the overview layout and feedback links.
